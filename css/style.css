@@ -1,0 +1,71 @@
+body{
+	margin: 0;
+}
+
+.banner1{
+	background-image:  url(../images/bgimg0.jpg);
+	text-align: center;
+	padding: 160px 15%;
+	background-attachment: fixed;
+	background-size: cover; 
+}
+
+.banner2{
+	background-image:  url(../images/bgimg1.jpg);/*folder theke ber howa */
+	text-align: center;
+	padding: 160px 15%;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+.banner3{
+	background-image:  url(../images/bgimg2.jpg);
+	text-align: center;
+	padding: 160px 15%;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+.banner4{
+	background-image:  url(../images/bgimg3.jpg);
+	text-align: center;
+	padding: 160px 15%;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+.banner5{
+	background-image:  url(../images/bgimg4.jpg);
+	text-align: center;
+	padding: 160px 15%;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+.banner6{
+	background-image:  url(../images/bgimg5.jpg);
+	text-align: center;
+	padding: 130px 15%;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+img{
+	max-width: 100%;
+}
+h1{
+	margin: 0;
+	font-size: 60px;
+	text-decoration: none;
+}
+p{
+	font-size: 20px;
+	line-height: 1.6;
+	color: #ecdada;
+}
+
+.content-box{
+	background: #352c2c5c;
+	padding: 30px 50px;
+	color: #fff;
+}
